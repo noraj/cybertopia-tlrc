@@ -1,0 +1,20 @@
+[style.title]
+color = { rgb = [2, 64, 197] } # Blue 3
+
+[style.description]
+color = { rgb = [2, 116, 197] } # Blue 1
+
+[style.bullet]
+color = { rgb = [2, 199, 151] } # noraj (main)
+
+[style.example]
+color = { rgb = [2, 90, 197] } # Blue 2
+
+[style.url]
+color = { rgb = [2, 168, 197] } # Blue 7
+
+[style.inline_code]
+color = { rgb = [2, 197, 174] } # Blue 5
+
+[style.placeholder]
+color = { rgb = [2, 194, 197] } # Blue 6

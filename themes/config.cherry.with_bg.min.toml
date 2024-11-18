@@ -1,0 +1,27 @@
+[style.title]
+color = { rgb = [197, 2, 51] } # Red 4
+background = { rgb = [16, 16, 16] }
+
+[style.description]
+color = { rgb = [2, 197, 116] } # Green 2
+background = { rgb = [16, 16, 16] }
+
+[style.bullet]
+color = { rgb = [2, 199, 151] } # noraj (main)
+background = { rgb = [16, 16, 16] }
+
+[style.example]
+color = { rgb = [2, 197, 99] } # Green 3
+background = { rgb = [16, 16, 16] }
+
+[style.url]
+color = { rgb = [197, 2, 67] } # Red 1
+background = { rgb = [16, 16, 16] }
+
+[style.inline_code]
+color = { rgb = [197, 2, 99] } # Red 3
+background = { rgb = [16, 16, 16] }
+
+[style.placeholder]
+color = { rgb = [197, 2, 83] } # Red 2
+background = { rgb = [16, 16, 16] }

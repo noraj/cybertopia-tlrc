@@ -1,0 +1,20 @@
+[style.title]
+color = { rgb = [162, 70, 190] } # Pink
+
+[style.description]
+color = { rgb = [151, 197, 2] } # Green
+
+[style.bullet]
+color = { rgb = [2, 199, 151] } # noraj (main)
+
+[style.example]
+color = { rgb = [70, 158, 190] } # Blue
+
+[style.url]
+color = { rgb = [190, 100, 70] } # Orange
+
+[style.inline_code]
+color = { rgb = [197, 187, 2] } # Yellow
+
+[style.placeholder]
+color = { rgb = [197, 2, 51] } # Red
